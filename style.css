@@ -341,8 +341,8 @@ footer i{
     }
     .featured{
         width: 100%;
-        height: 60vh;
-        background:linear-gradient(to right,rgba(0,0,0,1) 10%,rgba(255,255,255,0.2)), url(./Image/g1.jpg);
+        height: 80vh;
+        background:linear-gradient(to right,rgba(0,0,0,1) 30%,rgba(255,255,255,0.2)), url(./Image/g1.jpg);
         background-size: cover;
         background-position: top right;
         position: relative;
